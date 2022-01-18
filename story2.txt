@@ -1,1 +1,2 @@
 Hello, Kinga!
+Hello, this is my second change in this file done at 13:30.
