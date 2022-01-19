@@ -2,3 +2,5 @@ Hello, Kinga!
 Hello, this is my second change in this file done at 13:30.
 
 This is my third change. The weather is not really good in Bremen.
+
+New day, new edits.
